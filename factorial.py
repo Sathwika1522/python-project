@@ -1,5 +1,7 @@
-num = int(input("Enter a number: '))
-fact = 1
+num = int(input("Enter a number:"))
+fact = !
+
 for I in range(1,num + 1):
-fact *= I
-print("Factorial=",fact)
+	fact = fact*I
+
+print("factorial =",fact)
